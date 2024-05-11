@@ -1,5 +1,5 @@
 ---
-layout: coursepage
+layout: Bomb
 title: LOCKED OUT MATH 
 description: Mr. Merrick 
 show_downloads: FALSE
