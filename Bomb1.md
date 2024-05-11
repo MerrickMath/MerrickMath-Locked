@@ -1,5 +1,5 @@
 ---
-layout: Bomb
+layout: default
 title: LOCKED OUT MATH 
 description: Mr. Merrick 
 show_downloads: TRUE
