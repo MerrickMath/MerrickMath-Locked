@@ -6,10 +6,19 @@ show_downloads: FALSE
 
 ---
 
-<!--- ### MATH 20-1 SECTION  ### --->
-Welcome to **locked out math**. 
+Welcome to **locked out math**. Click each link for a playable puzzle with decriptions/solutions included. 
 
-<!--- To access the schoology page use this code: HRGC-TB6H-K38HK. ---> 
+### Math Bombs 
+* Math Bomb 1 
+* Math Bomb 2
+* Math Bomb 3
+* Math Bomb 4 
+
+### Locked Rooms 
+* Wrath of the Birbs
+* Create the cure: Zombies
+* Pirates Lair
+
 
 
 
