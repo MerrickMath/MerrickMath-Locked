@@ -16,7 +16,8 @@ Welcome to **locked out math**. Click each link for a playable puzzle with decri
 
 
 # Math Bombs 
-* <a href="https://MerrickMath.github.io/MerrickMath-Locked/Rooms/Space.pdf"> Bomb 1 </a>:
+* <a href="https://MerrickMath.github.io/MerrickMath-Locked/MathBombs/Completed/B1.pdf"> Bomb 1 </a>
+
 
 
 
