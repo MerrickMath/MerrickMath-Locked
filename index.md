@@ -12,7 +12,7 @@ Welcome to **locked out math**. Click each link for a playable puzzle with decri
 * <a href="https://MerrickMath.github.io/MerrickMath-Locked/Rooms/Space.pdf"> Space - Wrath of the Birbs </a>:
 * Western - Gunsmoke and Gold: 
 * <a href="https://MerrickMath.github.io/MerrickMath-Locked/Rooms/Pirates.pdf"> Pirates - Captain Sigma's Treasure Trove </a>:
-* <a href="https://MerrickMath.github.io/MerrickMath-Locked/Rooms/Medunefer.pdf"> Archaeology/Egypt - Dr. Medundefer's Riddle </a>: 
+* <a href="https://MerrickMath.github.io/MerrickMath-Locked/Rooms/Egypt.pdf"> Archaeology/Egypt - Dr. Medundefer's Riddle </a>: 
 
 
 # Math Bombs 
