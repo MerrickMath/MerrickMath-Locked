@@ -75,7 +75,7 @@
 }
 
 .maintop {
-  max-width: 35%;
+  max-width: 10%;
   height: auto;
 }
 
@@ -84,7 +84,7 @@ $header-bg-color-secondary: #000000 !default;
 $section-headings-color: #990000!default;
 
 $body-text-color: #000000 !default;
-$body-link-color: #76159A !default;
+$body-link-color: #ff1100 !default;
 $blockquote-text-color: #819198 !default;
 
 @import 'jekyll-theme-cayman';
