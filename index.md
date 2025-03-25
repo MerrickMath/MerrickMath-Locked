@@ -9,7 +9,7 @@ show_downloads: FALSE
 Welcome to **locked out math**. Click each link for a playable puzzle with decriptions/solutions included. 
 
 ## Escape Room Experiences 
-Please note that some of these files are BIG and take a minute to load. Detailed information (including answers) is included in the pdf for each room. 
+Some of these files are BIG and take a minute to load. Detailed information (including answers) is included in the pdf for each room. 
 * <a href="https://MerrickMath.github.io/Experience/Birbs.pdf"> Space - Wrath of the Birbs </a>
 * <a href="https://MerrickMath.github.io/Experience/RedDead.pdf"> Western - Gunsmoke and Gold </a>
 * <a href="https://MerrickMath.github.io/Experience/Pirate.pdf"> Pirates - Captain Sigma's Treasure Trove </a>
