@@ -10,10 +10,11 @@ Welcome to **locked out math**. Click each link for a playable puzzle with decri
 
 ## Escape Room Experiences 
 Please note that some of these files are BIG and take a minute to load. Detailed information (including answers) is included in the pdf for each room. 
-* <a href="https://MerrickMath.github.io/MerrickMath-Locked/Rooms/Space.pdf"> Space - Wrath of the Birbs </a>
-* <a href="https://MerrickMath.github.io/MerrickMath-Locked/Rooms/Western.pdf"> Western - Gunsmoke and Gold </a>
-* <a href="https://MerrickMath.github.io/MerrickMath-Locked/Rooms/Pirates.pdf"> Pirates - Captain Sigma's Treasure Trove </a>
-* <a href="https://MerrickMath.github.io/MerrickMath-Locked/Rooms/Egypt.pdf"> Archaeology/Egypt - Dr. Medundefer's Riddle </a> 
+* <a href="https://MerrickMath.github.io/Experience/Birbs.pdf"> Space - Wrath of the Birbs </a>
+* <a href="https://MerrickMath.github.io/Experience/RedDead.pdf"> Western - Gunsmoke and Gold </a>
+* <a href="https://MerrickMath.github.io/Experience/Pirate.pdf"> Pirates - Captain Sigma's Treasure Trove </a>
+* <a href="https://MerrickMath.github.io/Experience/Medunefer.pdf"> Archaeology/Egypt - Dr. Medundefer's Riddle </a>
+* <a href="https://MerrickMath.github.io/Experience/Epsilon.pdf"> Alien/Horror - Extraction on Epsilon-8 </a> 
 
 
 ## Math Bombs 
