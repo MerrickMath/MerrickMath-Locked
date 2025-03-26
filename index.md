@@ -19,12 +19,12 @@ Some of these files are BIG and take a minute to load. Detailed information (inc
 
 ## Math Bombs 
 Math Bomb is an interactive escape room style activity where students defuse a bomb. The puzzles have a wide range of difficulty. Detailed information on each puzzle is provided in each pdf. 
-* <a href="https://MerrickMath.github.io/MerrickMath-Locked/MathBombs/Completed/B1.pdf"> Bomb 1 </a>
-* <a href="https://MerrickMath.github.io/MerrickMath-Locked/MathBombs/Completed/B2.pdf"> Bomb 2 </a>
-* <a href="https://MerrickMath.github.io/MerrickMath-Locked/MathBombs/Completed/B3.pdf"> Bomb 3 </a>
-* <a href="https://MerrickMath.github.io/MerrickMath-Locked/MathBombs/Completed/B4.pdf"> Bomb 4 </a>
-* <a href="https://MerrickMath.github.io/MerrickMath-Locked/MathBombs/Completed/B5.pdf"> Bomb 5 </a>
-* <a href="https://MerrickMath.github.io/MerrickMath-Locked/MathBombs/Completed/B6.pdf"> Bomb 6 </a>
+* <a href="https://MerrickMath.github.io/Experience/A3.pdf"> Bomb 1 </a>
+* <a href="https://MerrickMath.github.io/Experience/B6.pdf"> Bomb 2 </a>
+* <a href="https://MerrickMath.github.io/Experience/C9.pdf"> Bomb 3 </a>
+* <a href="https://MerrickMath.github.io/Experience/D12.pdf"> Bomb 4 </a>
+* <a href="https://MerrickMath.github.io/Experience/E15.pdf"> Bomb 5 </a>
+* <a href="https://MerrickMath.github.io/Experience/F18.pdf"> Bomb 6 </a>
 
 
 
