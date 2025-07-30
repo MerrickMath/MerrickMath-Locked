@@ -23,8 +23,8 @@ Math Bomb is an interactive escape room style activity where students defuse a b
 * <a href="https://MerrickMath.github.io/Experience/B6.pdf"> Bomb 2 </a>
 * <a href="https://MerrickMath.github.io/Experience/C9.pdf"> Bomb 3 </a>
 * <a href="https://MerrickMath.github.io/Experience/D12.pdf"> Bomb 4 </a>
-* <a href="https://MerrickMath.github.io/Experience/E15.pdf"> Bomb 5 </a>
-* <a href="https://MerrickMath.github.io/Experience/F18.pdf"> Bomb 6 </a>
+<!--- * <a href="https://MerrickMath.github.io/Experience/E15.pdf"> Bomb 5 </a>
+* <a href="https://MerrickMath.github.io/Experience/F18.pdf"> Bomb 6 </a> --->
 
 
 
